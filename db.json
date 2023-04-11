@@ -1,0 +1,17 @@
+{
+  "username": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate felis ac semper tempor. Nunc vitae est id ex lacinia ultrices non et nulla. Nulla facilisi."
+    }
+  ],
+  "wizarddetails": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate felis ac semper tempor. Nunc vitae est id ex lacinia ultrices non et nulla. Nulla facilisi.",
+      "features": "good"
+    }
+  ]
+}
